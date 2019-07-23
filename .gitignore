@@ -7,3 +7,10 @@
 /captures
 .externalNativeBuild
 app/release
+app/blue/release/app.aab
+.project
+.settings/org.eclipse.buildship.core.prefs
+app/.classpath
+app/.project
+app/.settings/org.eclipse.buildship.core.prefs
+app/.settings/org.eclipse.jdt.core.prefs

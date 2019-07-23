@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Tusky Uncensored</string>
-    <string name="app_website" translatable="false">https://tusky.app</string>
+    <string name="app_name" translatable="false">Toothless</string>
+    <string name="app_website" translatable="false">https://github.com/zhiyuan-lin/TuskyUncensored</string>
 
     <string name="oauth_scheme" translatable="false">oauth2redirect</string>
     <string name="preferences_file_key" translatable="false">com.keylesspalace.tusky.PREFERENCES</string>
