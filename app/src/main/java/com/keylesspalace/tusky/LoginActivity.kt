@@ -33,6 +33,7 @@ import com.keylesspalace.tusky.di.Injectable
 import com.keylesspalace.tusky.entity.AccessToken
 import com.keylesspalace.tusky.entity.AppCredentials
 import com.keylesspalace.tusky.network.MastodonApi
+import com.keylesspalace.tusky.util.getNonNullString
 import com.keylesspalace.tusky.util.ThemeUtils
 import kotlinx.android.synthetic.main.activity_login.*
 import okhttp3.HttpUrl
