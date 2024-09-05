@@ -137,7 +137,7 @@
     <string name="confirmation_unmuted">Prekinjeno utišanje uporabnika</string>
     <string name="hint_domain">Katero vozlišče\?</string>
     <string name="link_whats_an_instance">Kaj je instanca\?</string>
-    <string name="dialog_whats_an_instance">Tu lahko vnesete naslov ali domeno katerega koli vozlišča, na primer mastodon.social, icosahedron.website, social.tchncs.de in <a href="https://instances.social"> več! </a>
+    <string name="dialog_whats_an_instance">Tu lahko vnesete naslov ali domeno katerega koli vozlišča, na primer gab.com, gab.ai, spinster.xyz, truthsocial.com in <a href="https://instances.social"> več! </a>
 \n
 \nČe še nimate računa, lahko vnesete ime vozlišča, kateremu bi se radi pridružili, in tam ustvarite račun.
 \n

@@ -139,7 +139,7 @@
     <string name="label_header">Заголовок</string>
     <string name="link_whats_an_instance">Что такое экземпляр\?</string>
     <string name="login_connection">Подключаюсь…</string>
-    <string name="dialog_whats_an_instance">Здесь можно указать адрес или домен любого экземпляра, например mastodon.social, icosahedron.website, social.tchncs.de и <a href="https://instances.social">другие!</a>.
+    <string name="dialog_whats_an_instance">Здесь можно указать адрес или домен любого экземпляра, например gab.com, gab.ai, spinster.xyz, truthsocial.com и <a href="https://instances.social">другие!</a>.
 \n
 \nЕсли у вас еще нет учетной записи Вы можете ввести имя экземпляра к которому хотите присоединиться и создать там учетную запись.
 \n

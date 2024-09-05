@@ -139,7 +139,7 @@
     <string name="link_whats_an_instance">Co je to server\?</string>
     <string name="login_connection">Připojuji se…</string>
     <string name="dialog_whats_an_instance">Sem může být zadána adresa či doména jakéhokoliv
-        serveru, například mastodon.social, icosahedron.website, social.tchncs.de
+        serveru, například gab.com, gab.ai, spinster.xyz, truthsocial.com
         a <a href="https://instances.social">další!</a>
         \n\nPokud ještě nemáte účet, můžete zadat název instance, ke které se chcete
         připojit, a vytvořit si tam účet.\n\nServer je jedno místo, kde je hostován váš

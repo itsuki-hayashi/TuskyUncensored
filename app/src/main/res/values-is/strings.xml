@@ -155,7 +155,7 @@
     <string name="label_avatar">Auðkennismynd</string>
     <string name="label_header">Haus</string>
     <string name="login_connection">Tengist…</string>
-    <string name="dialog_whats_an_instance">Hægt er að setja hér inn vistfang eða lén á hvaða tilviki sem er, svo sem mastodon.social, icosahedron.website, social.tchncs.de og <a href="https://instances.social">fleiri!</a>
+    <string name="dialog_whats_an_instance">Hægt er að setja hér inn vistfang eða lén á hvaða tilviki sem er, svo sem gab.com, gab.ai, spinster.xyz, truthsocial.com og <a href="https://instances.social">fleiri!</a>
 \n
 \nEf þú ert ekki ennþá með notandaaðgang, geturðu sett inn nafnið á því tilviki sem þú vilt tilheyra og búið til aðgang þar.
 \n

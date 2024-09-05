@@ -415,9 +415,9 @@
     <string name="dialog_download_image">Завантаження</string>
     <string name="dialog_message_uploading_media">Відвантаження…</string>
     <string name="dialog_title_finishing_media_upload">Завершення відвантаження медіа</string>
-    <string name="dialog_whats_an_instance">Сюди можна ввести адресу або домен будь-якого сервера, наприклад mastodon.social, icosahedron.website, social.tchncs.de та <a href="https://instances.social">більше!</a> \u0020
+    <string name="dialog_whats_an_instance">Сюди можна ввести адресу або домен будь-якого сервера, наприклад gab.com, gab.ai, spinster.xyz, truthsocial.com та <a href="https://instances.social">більше!</a> \u0020
 \n
-\nЯкщо у вас ще немає облікового запису, ви можете ввести назву сервера, до якого ви хочете приєднатися та створити там обліковий запис. 
+\nЯкщо у вас ще немає облікового запису, ви можете ввести назву сервера, до якого ви хочете приєднатися та створити там обліковий запис.
 \n
 \nСервер — єдине місце, де розміщено ваш обліковий запис, але ви можете легко спілкуватися з людьми та стежити за ними на інших серверах, ніби ви перебуваєте на тому ж сайті. \u0020
 \n
@@ -695,9 +695,9 @@
     <string name="dialog_delete_filter_text">Видалити фільтр \'%1$s\'\?</string>
     <string name="dialog_delete_filter_positive_action">Видалити</string>
     <string name="dialog_save_profile_changes_message">Хочете зберегти зміни у своєму профілі\?</string>
-    <string name="help_empty_lists">Це ваше <b>подання списків</b>. Ви можете створити кілька приватних списків і додати до них облікові записи. 
+    <string name="help_empty_lists">Це ваше <b>подання списків</b>. Ви можете створити кілька приватних списків і додати до них облікові записи.
 \n
-\n \u0020ЗАУВАЖТЕ, що ви можете додавати до своїх списків лише ті облікові записи, на за якими слідкуєте. 
+\n \u0020ЗАУВАЖТЕ, що ви можете додавати до своїх списків лише ті облікові записи, на за якими слідкуєте.
 \n
 \n \u0020Ці списки можна використовувати як вкладку у налаштуваннях Вкладок облікового запису [iconics gmd_account_circle] [iconics gmd_navigate_next]. \u0020</string>
     <string name="muting_hashtag_success_format">Сховати хештег #%1$s як попередження</string>

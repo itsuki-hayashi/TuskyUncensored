@@ -139,7 +139,7 @@
     <string name="link_whats_an_instance">Qu’est-ce qu’une instance ?</string>
     <string name="login_connection">Connexion en cours…</string>
     <string name="dialog_whats_an_instance">Indiquer ici l’adresse ou le domaine d’une instance,
-        comme mastodon.social, icosahedron.website, social.tchncs.de,
+        comme gab.com, gab.ai, spinster.xyz, truthsocial.com,
         <a href="https://instances.social">et bien d’autres encore</a> (en anglais) !
         \n\nSi vous ne disposez d’aucun compte, vous pouvez renseigner le nom de l’instance que vous souhaitez rejoindre
         et y créer un compte.\n\nUne instance est l’endroit où votre compte est

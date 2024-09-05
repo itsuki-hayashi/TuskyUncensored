@@ -64,7 +64,7 @@
     <string name="dialog_download_image">Tải về</string>
     <string name="dialog_message_uploading_media">Đang tải…</string>
     <string name="dialog_title_finishing_media_upload">Đã tải xong tập tin</string>
-    <string name="dialog_whats_an_instance">Bạn phải nhập một tên miền. Ví dụ mastodon.social, icosahedron.website, social.tchncs.de và <a href="https://instances.social">vô số khác!</a>
+    <string name="dialog_whats_an_instance">Bạn phải nhập một tên miền. Ví dụ gab.com, gab.ai, spinster.xyz, truthsocial.com và <a href="https://instances.social">vô số khác!</a>
 \n
 \nNếu chưa có tài khoản, bạn phải tạo tài khoản ở đó trước.
 \n

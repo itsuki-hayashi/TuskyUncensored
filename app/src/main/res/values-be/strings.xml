@@ -179,7 +179,7 @@
         <item quantity="other">%1$d новых узаемадзеянняў</item>
     </plurals>
     <string name="description_account_locked">Заблакаваны ўліковы запіс</string>
-    <string name="dialog_whats_an_instance">Сюды можна ўвесці адрас або дамен любога сервера, напрыклад mastodon.social, icosahedron.website, social.tchncs.de ды <a href="https://instances.social">больш!</a>
+    <string name="dialog_whats_an_instance">Сюды можна ўвесці адрас або дамен любога сервера, напрыклад gab.com, gab.ai, spinster.xyz, truthsocial.com ды <a href="https://instances.social">больш!</a>
 \n
 \nКалі ў вас яшчэ няма ўліковага запісу, вы можаце ўвесці назву сервера, да якога вы жадаеце далучыцца, і стварыць там уліковы запіс.
 \n

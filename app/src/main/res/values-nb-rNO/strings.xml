@@ -138,7 +138,7 @@
     <string name="label_header">Overskrift</string>
     <string name="link_whats_an_instance">Hva er en instans\?</string>
     <string name="login_connection">Kobler til…</string>
-    <string name="dialog_whats_an_instance">Addressen eller domenet til enhver instans kan legges til her, f. eks. mastodon.social, icosahedron.website, social.tchncs.de og <a href="https://instances.social">mer!</a>
+    <string name="dialog_whats_an_instance">Addressen eller domenet til enhver instans kan legges til her, f. eks. gab.com, gab.ai, spinster.xyz, truthsocial.com og <a href="https://instances.social">mer!</a>
 \n
 \nHvis du ikke har en konto kan du oppgi navnet på instansen du vil bli medlem av, og lage en konto der.
 \n

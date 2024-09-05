@@ -267,7 +267,7 @@
     <string name="notification_boost_description">Brathan nuair a thèid post agad brosnachadh</string>
     <string name="dialog_redraft_post_warning">A bheil thu airson am post seo a sguabadh às is dreachd ùr a dhèanamh air\?</string>
     <string name="dialog_delete_post_warning">A bheil thu airson am post seo a sguabadh às\?</string>
-    <string name="dialog_whats_an_instance">’S urrainn dhut seòladh no àrainn-lìn aig ionstans sam bith a chur a-steach an-seo, can mastodon.social, icosahedron.website, social.tchncs.de agus <a href="https://instances.social">a bharrachd!</a>
+    <string name="dialog_whats_an_instance">’S urrainn dhut seòladh no àrainn-lìn aig ionstans sam bith a chur a-steach an-seo, can gab.com, gab.ai, spinster.xyz, truthsocial.com agus <a href="https://instances.social">a bharrachd!</a>
 \n
 \nMur eil cunntas agad fhathast, cuir a-steach ainm an ionstans sa bheil thu airson ballrachd fhaighinn airson cunntas a chruthachadh ann.
 \n

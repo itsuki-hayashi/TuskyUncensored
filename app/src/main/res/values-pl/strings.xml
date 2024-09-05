@@ -111,7 +111,7 @@
     <string name="label_header">Nagłówek</string>
     <string name="link_whats_an_instance">Czym jest instancja?</string>
     <string name="login_connection">Łączenie…</string>
-    <string name="dialog_whats_an_instance">Tutaj można wprowadzić domenę lub adres instancji, np. mastodon.social, icosahedron.website, social.tchncs.de, i <a href="https://instances.social">wiele więcej!</a>
+    <string name="dialog_whats_an_instance">Tutaj można wprowadzić domenę lub adres instancji, np. gab.com, gab.ai, spinster.xyz, truthsocial.com, i <a href="https://instances.social">wiele więcej!</a>
 \n
 \nJeżeli nie posiadasz jeszcze konta, wprowadź tu nazwę instancji, na której chcesz się zarejestrować.
 \n

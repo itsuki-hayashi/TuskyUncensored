@@ -159,10 +159,10 @@ class LoginActivity : BaseActivity() {
             return
         }
 
-        if (shouldRickRoll(this, domain)) {
-            rickRoll(this)
-            return
-        }
+        // if (shouldRickRoll(this, domain)) {
+        //     rickRoll(this)
+        //     return
+        // }
 
         setLoading(true)
 

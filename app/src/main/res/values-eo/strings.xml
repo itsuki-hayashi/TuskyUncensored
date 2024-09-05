@@ -138,7 +138,7 @@
     <string name="label_header">Fonbildo</string>
     <string name="link_whats_an_instance">Kio estas nodo?</string>
     <string name="login_connection">Konektado…</string>
-    <string name="dialog_whats_an_instance">La adreso aŭ domajno de iu ajn nodo povas esti enmetita ĉi tie, kiel mastodon.social, icosahedron.website, social.tchncs.de, kaj <a href="https://instances.social">pli!</a>
+    <string name="dialog_whats_an_instance">La adreso aŭ domajno de iu ajn nodo povas esti enmetita ĉi tie, kiel gab.com, gab.ai, spinster.xyz, truthsocial.com, kaj <a href="https://instances.social">pli!</a>
 \n
 \nSe vi ankoraŭ ne havas konton, vi povas enmeti la nomon de la nodo, al kiu vi volas aliĝi, kaj krei konton tie.
 \n
